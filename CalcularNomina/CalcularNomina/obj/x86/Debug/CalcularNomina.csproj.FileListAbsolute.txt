@@ -1,0 +1,10 @@
+C:\Users\alumno\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\CalcularNomina.Form1.resources
+C:\Users\alumno\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\alumno\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\CalcularNomina.csproj.GenerateResource.Cache
+E:\SHARP\CalcularNomina\CalcularNomina\obj\x86\Debug\CalcularNomina.Form1.resources
+E:\SHARP\CalcularNomina\CalcularNomina\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SHARP\CalcularNomina\CalcularNomina\obj\x86\Debug\CalcularNomina.csproj.GenerateResource.Cache
+E:\SHARP\CalcularNomina\CalcularNomina\bin\Debug\CalcularNomina.exe
+E:\SHARP\CalcularNomina\CalcularNomina\bin\Debug\CalcularNomina.pdb
+E:\SHARP\CalcularNomina\CalcularNomina\obj\x86\Debug\CalcularNomina.exe
+E:\SHARP\CalcularNomina\CalcularNomina\obj\x86\Debug\CalcularNomina.pdb
